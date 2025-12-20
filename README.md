@@ -1,18 +1,24 @@
 ## Hi there 👋
 
-I'm a student at **Fontys University of Applied Sciences** with a strong interest in **cloud, platform engineering, and security**.  
-I work on hands-on projects where I design, build, and automate modern IT infrastructures using both **AWS and Azure**.
+I'm a **Cloud & DevOps–oriented student** at **Fontys University of Applied Sciences**, focused on building and automating modern cloud platforms.  
+Through hands-on projects, I work mostly with **AWS and Azure**, Infrastructure as Code, Kubernetes, and security automation to design scalable and reliable systems.
 
-### 🚀 What you'll find here
-- Cloud infrastructure projects on **AWS & Azure**
-- Infrastructure as Code using **Terraform**
-- **Kubernetes** & platform engineering setups (EKS / AKS)
-- Security automation & **SOAR** projects
-- Monitoring & observability (Prometheus, Grafana)
-- Automation with Python and cloud-native tools
+### 🎯 Focus Areas
+- Infrastructure as Code (**Terraform**)
+- **Kubernetes** & platform engineering (EKS / AKS)
+- CI/CD & automation workflows
+- Monitoring & observability
+- Security automation & **SOAR** concepts
 
-### 🌱 Why these projects?
-These projects help me strengthen my practical skills, experiment with real-world architectures, and prepare for a future role in **Cloud, DevOps, or Platform Engineering**.
+### 🛠 What I work on
+This GitHub profile contains practical projects where I:
+- Design cloud architectures with high availability in mind
+- Automate deployments and configurations
+- Build secure and observable platforms
+- Experiment with real-world DevOps and SRE practices
 
-### 📫 Get in touch
-Feel free to explore the repositories, leave feedback, or reach out if you'd like to collaborate or exchange ideas.
+### 🌱 Learning & Growth
+I use these projects to continuously improve my technical skills and gain experience with industry-standard tools and workflows.
+
+### 📫 Contact
+Feel free to explore the repositories, provide feedback, or reach out if you're interested in collaboration or discussing internship opportunities.
