@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mehdi6132/mehdi6132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Fontys University of Applied Sciences**, passionate about cloud, security, and platform engineering.  
+I work on hands-on projects focused on **AWS infrastructure**, **Kubernetes platforms**, and **security automation**, where I combine theory with real-world implementation.
 
-Here are some ideas to get you started:
+### 🚀 What you'll find here
+- Cloud & Infrastructure as Code projects (AWS, Terraform)
+- Kubernetes & platform engineering setups
+- Security automation & SOAR experiments
+- Monitoring, observability, and automation tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Why these projects?
+These projects help me deepen my technical skills, experiment with modern architectures, and prepare for a career in cloud & DevOps engineering.
+
+### 📫 Get in touch
+Feel free to explore the repositories, leave feedback, or reach out if you’d like to collaborate or learn together.
